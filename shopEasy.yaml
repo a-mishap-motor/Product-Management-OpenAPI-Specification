@@ -11,10 +11,6 @@ tags:
     description: Modify ShopEasy products
   - name: browse
     description: Browse by category or product
-  - name: order
-    description: Access to ShopEasy orders
-  - name: user
-    description: Operations with user
 paths:
   '/products':
     get:
